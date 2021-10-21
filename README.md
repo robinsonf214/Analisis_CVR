@@ -9,4 +9,5 @@ Cronología de desarrollo:
 4.	analisis exploratorio Timer.ipynb
 5.	Serie de tiempo.ipynb
 6.	Patrones de invocaciones con tipo de funciones.ipynb
+7.  Simulacion.ipynb
 El libro llamado ” Serie de tiempo” se usa para graficar y  procesar los resultado de los otros libros.
