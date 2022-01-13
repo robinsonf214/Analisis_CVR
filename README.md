@@ -11,6 +11,7 @@ Cronología de desarrollo:
 6.	Patrones de invocaciones con tipo de funciones.ipynb
 7.  Simulacion.ipynb
 8. Preguntas.ipynb
+
 El libro llamado ” Serie de tiempo” se usa para graficar y  procesar los resultado de los otros libros.
 
 El libro Preguntas contiene todos las preguntas y puntos de resolucion indicado por la Miss
